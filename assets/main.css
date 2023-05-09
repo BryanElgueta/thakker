@@ -125,7 +125,7 @@ body:before {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
-    background-image: url('assets/images/Thakker-bg.png');
+    background-image: url('https://github.com/BryanElgueta/thakker/blob/1d652f41c2ef58cf47223d72a976c512b9d74a26/assets/images/thakker-bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
